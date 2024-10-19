@@ -1,4 +1,4 @@
-'use client'; // Componente del lado del cliente
+'use client'; 
 
 import { useState, useEffect } from 'react';
 
